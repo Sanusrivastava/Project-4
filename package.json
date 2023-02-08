@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Subhamsidharth/Scalable-URL-Shortner-Project-Requirement.git"
+    "url": "git+https://github.com/Sanusrivastava/Project-4.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Subhamsidharth/Scalable-URL-Shortner-Project-Requirement/issues"
+    "url": "https://github.com/Sanusrivastava/Project-4/issues"
   },
-  "homepage": "https://github.com/Subhamsidharth/Scalable-URL-Shortner-Project-Requirement#readme",
+  "homepage":  "https://github.com/Sanusrivastava/Project-4#readme",
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.4.4",

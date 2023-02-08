@@ -66,7 +66,7 @@ module.exports.createUrl = async function (req, res) {
             urlCode: urlCode
         }
 
-        let urlCreated = await urlModel.create(Data)
+        await urlModel.create(Data)
         return res.status(201).send({ status: true, message: "Success ✔🟢", data: Data });
 
     } catch (err) {
